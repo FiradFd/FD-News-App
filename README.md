@@ -9,7 +9,7 @@ new libraries and tools which makes it easier to build high
 quality Flutter applications.
 ## Screenshots
 
-![App Screenshot](https://firadfd.coderexplorer.com/app_image/news.jpg)
+![App Screenshot](https://firebasestorage.googleapis.com/v0/b/app-screenshot-352c0.appspot.com/o/news.jpg?alt=media&token=e64c945b-c354-4a65-9f0d-8bdf0aa31e62)
 
 ## Authors
 - [@Firad Fd](https://www.github.com/firadfd)
